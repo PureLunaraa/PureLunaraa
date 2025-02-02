@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/random19213/random19213/raw/main/Banner.png" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">random19213</h1>
 
 <h3 align="center">Developer | Exploit Developer | Creator of Tools & Tutorials</h3>
