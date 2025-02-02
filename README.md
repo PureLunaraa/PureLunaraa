@@ -24,5 +24,5 @@
 - **Visual Studio Code**
 - **GitHub**
 
-[![](https://github-readme-stats.vercel.app/api?username=PureLunaraa&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats) 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=PureLunaraa&langs_count=8&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=PureLunaraa&show_icons=true&theme=cobalt)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PureLunaraa&langs_count=8&theme=cobalt)
