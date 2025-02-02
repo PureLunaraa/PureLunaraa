@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">random19213</h1>
 
-<!--
-**random19213/random19213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Developer | Exploit Developer | Creator of Tools & Tutorials</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.roblox.com/users/3791390664/profile" target="_blank">Roblox</a> | 
+  <a href="https://github.com/random19213" target="_blank">GitHub</a> | 
+  <a href="https://devforum.roblox.com/u/3791390664" target="_blank">Devforum</a> | 
+  <a href="https://www.youtube.com/@hotahyescomp" target="_blank">YouTube</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌊 **My Skills & Tools**
+- **Languages**: Lua (Roblox), Python, JavaScript
+- **Tools**: Roblox Studio, GitHub, Visual Studio Code
+- **Experience**: 6 Years
+
+## 🌊 **Tech Stack**
+- **Roblox Studio**
+- **Lua**
+- **Visual Studio Code**
+- **GitHub**
