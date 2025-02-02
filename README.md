@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/random19213/random19213/raw/main/Banner.png" alt="Banner" width="100%" />
+  <img src="https://github.com/random19213/random19213/raw/main/NewBanner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">random19213</h1>
